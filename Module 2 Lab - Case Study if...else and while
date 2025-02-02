@@ -1,0 +1,7 @@
+# Cailli Church
+Records of Students
+The app will be able to searcha students name 
+and see there gpa
+
+Lname = input("what is the student's last name : ")
+
